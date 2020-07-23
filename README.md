@@ -1,0 +1,1 @@
+# cftcv_ocr_generator
